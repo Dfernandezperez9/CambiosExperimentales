@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Arantza! 👋
 
-- 🔭 I’m currently working on 
+## 🚀 About Me
+I'm a front end UI developer
+
+## 🛠 Skills
+Javascript, HTML5, CSS3...
+
+## Authors
+
+- [@AranBeitia](https://github.com/AranBeitia)
+
 
 <!--
 **AranBeitia/AranBeitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
