@@ -8,7 +8,9 @@ Javascript, HTML5, CSS3...
 
 ## Stats
 
-[![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranBeitia)](https://github.com/AranBeitia/github-readme-stats)
+[![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranBeitia&show_icons=true&theme=radical)](https://github.com/AranBeitia/github-readme-stats)
+
+
 
 
 
