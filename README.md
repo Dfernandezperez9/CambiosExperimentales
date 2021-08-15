@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm arantza</h1>
 <h3 align="center">A passionate frontend developer from Bilbao</h3>
 <p align="center">
-<a href="https://twitter.com/aranbeitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aranbeitia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arantza-beitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arantza-beitia" height="30" width="40" /></a>
+  <a href="https://www.domestika.org/es/arantzabeitia" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/12766483/129492741-1b163d5f-923e-45f1-a098-d8fa5e874b7a.png" alt="domestika" height="40" width="40" /> </a>
+  <a href="https://twitter.com/aranbeitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aranbeitia" height="40" width="50" /></a>
 </p>
 
 ![me](https://user-images.githubusercontent.com/12766483/129491268-9ba5b015-1bd4-4dd2-844d-05d66f90dadf.jpg)
