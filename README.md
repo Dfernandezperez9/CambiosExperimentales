@@ -6,9 +6,10 @@ I'm a front end UI developer
 ## 🛠 Skills
 Javascript, HTML5, CSS3...
 
-## Authors
+## Stats
 
-- [@AranBeitia](https://github.com/AranBeitia)
+[![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranBeitia)](https://github.com/AranBeitia/github-readme-stats)
+
 
 
 <!--
