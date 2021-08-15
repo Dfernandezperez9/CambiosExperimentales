@@ -37,7 +37,6 @@
 <img src="https://user-images.githubusercontent.com/12766483/129493329-db7a537a-61e2-4cf8-a72e-26ab3d813ff4.png" alt="paper and pencil" width="40" height="40"/> 
 
 </p>
-VisualStudio, Codepen, Netlify, Terminal
 
 ### My github stats
 
