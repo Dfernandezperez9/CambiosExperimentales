@@ -1,10 +1,17 @@
 ## Hi there, I'm Arantza! 👋
 
 ### 🚀 About Me
-I'm a front end UI developer
+I'm a frontend UI developer based in Bilbao. I’m interested in the whole visual part of the web, its usability, performance and accessibility. Also I’m interested in street art, classic movies, motorcycle roads and The Cramps. 
 
-### 🛠 Skills
-Javascript, HTML5, CSS3...
+### 🛠 I speak
+HTML, CSS, SCSS, JS
+
+### My tools
+VisualStudio
+Codepen
+Github
+Netlify
+Terminal
 
 ### My github stats
 
