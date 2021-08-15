@@ -1,18 +1,14 @@
-### Hi there, I'm Arantza! 👋
+## Hi there, I'm Arantza! 👋
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a front end UI developer
 
-## 🛠 Skills
+### 🛠 Skills
 Javascript, HTML5, CSS3...
 
-## Stats
+### My github stats
 
 [![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranBeitia&show_icons=true&theme=radical)](https://github.com/AranBeitia/github-readme-stats)
-
-
-
-
 
 <!--
 **AranBeitia/AranBeitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
