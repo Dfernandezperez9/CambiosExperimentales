@@ -1,5 +1,7 @@
 ## Hi there, I'm Arantza! 👋
 
+![me](https://user-images.githubusercontent.com/12766483/129489648-ba271dbe-59b4-4684-b554-a94c2dfad7a0.jpg)
+
 ### 🚀 About Me
 
 <p>I'm a frontend UI developer based in Bilbao. I’m interested in the whole visual part of the web, its usability, performance and accessibility. I like coding from scratch, and I enjoy seeing the ideas that I have brought to life in the browser.</p>
