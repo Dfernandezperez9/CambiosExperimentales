@@ -3,15 +3,11 @@
 ### 🚀 About Me
 I'm a frontend UI developer based in Bilbao. I’m interested in the whole visual part of the web, its usability, performance and accessibility. Also I’m interested in street art, classic movies, motorcycle roads and The Cramps. 
 
-### 🛠 I speak
+### I speak
 HTML, CSS, SCSS, JS
 
-### My tools
-VisualStudio
-Codepen
-Github
-Netlify
-Terminal
+### 🛠 My tools
+VisualStudio Codepen Github Netlify Terminal
 
 ### My github stats
 
